@@ -24,3 +24,18 @@
 </div>
 
 ---
+
+### <h3>Task No.3</h3>
+<a href="https://github.com/Arezoo-Dahesh/Computer-vision-tasks/blob/main/03-Task%20No.3/Task%20No.3.ipynb" align="center">Road Lane segmentation using OpenCV</a>
+
+
+Input video:
+
+![road_gif](https://user-images.githubusercontent.com/76118695/228245878-0695bd35-4fdd-4a0a-94f7-861494cee5dd.gif)
+
+Output video:
+
+![output_gif](https://user-images.githubusercontent.com/76118695/228245672-1052d2eb-e482-4eab-b573-b9d2106fbf08.gif)
+
+---
+
