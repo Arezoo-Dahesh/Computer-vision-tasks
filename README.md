@@ -26,7 +26,7 @@
 ---
 
 ### <h3>Task No.3</h3>
-<a href="https://github.com/Arezoo-Dahesh/Computer-vision-tasks/blob/main/03-Task%20No.3/Task%20No.3.ipynb" align="center">Road Lane segmentation using OpenCV</a>
+<a href="https://github.com/Arezoo-Dahesh/Computer-vision-tasks/blob/main/03-Task%20No.3/Task%20No.3.ipynb" align="center">Road Lane segmentation from video</a>
 
 
 Input video:
