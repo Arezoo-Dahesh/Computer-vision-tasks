@@ -45,4 +45,7 @@ Output video:
 <p> ▶ To access all haarcascade files, refer to this repo: <a href="https://github.com/opencv/opencv/tree/4.x/data/haarcascades" align="center">haarcascade files</a><p>
 
 
+Output video:
+
+![output_gif](https://user-images.githubusercontent.com/76118695/228906412-f101eb32-5c82-4135-a358-6150810cbdf2.gif)
 
