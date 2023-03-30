@@ -39,3 +39,10 @@ Output video:
 
 ---
 
+### <h3>Task No.4</h3>
+<a href="https://github.com/Arezoo-Dahesh/Computer-vision-tasks/blob/main/04-Task%20No.4/Task%20No.4.ipynb" align="center">Face and eye Detection using OpenCV</a>
+
+<p> ▶ To access all haarcascade files, refer to this repo: <a href="https://github.com/opencv/opencv/tree/4.x/data/haarcascades" align="center">haarcascade files</a><p>
+
+
+
